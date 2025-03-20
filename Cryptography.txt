@@ -1,0 +1,31 @@
+7. What is Cryptography primarily used for?  
+b) Securing communication 
+
+8. Which of the following is a type of symmetric encryption? 
+b) AES 
+
+9. Which of these is an asymmetric encryption algorithm?  
+c) RSA 
+
+10. What is the key difference between symmetric and asymmetric encryption? 
+a) Symmetric uses one key; asymmetric uses two keys 
+
+11. Which of these is NOT a hashing algorithm? 
+c) Blowfish 
+
+12. Which cryptographic attack exploits predictable key generation?
+d) Weak key attack
+
+13. Which factor makes an encryption algorithm post-quantum secure? 
+c) Resistance to Shor’s algorithm
+
+14. Which of the following helps mitigate replay attacks? 
+b) Using nonces and timestamps 
+
+15. Which algorithm is primarily used for email encryption? 
+a) PGP 
+
+16. What is a quantum-safe cryptographic algorithm?
+a) An encryption method that is immune to quantum computing attacks
+
+
