@@ -1,0 +1,2 @@
+7. What is Cryptography primarily used for?  
+b) Securing communication 
